@@ -37,5 +37,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = ""> <img src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" height= 15px width = 15px> Facebook </a>&nbsp;&nbsp;
 <a href = "https://www.instagram.com/alexrmachado86/"><img src = "https://image.flaticon.com/icons/svg/174/174855.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
 <a href = "https://www.linkedin.com/in/alexresende86/"><img src = "https://image.flaticon.com/icons/svg/174/174857.svg" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
-
+https://github-readme-stats.vercel.app/api?username=Alexrm86&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515
 
