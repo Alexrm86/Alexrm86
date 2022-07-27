@@ -11,7 +11,7 @@
 - 👯 Estou procurando colaborar em projetos de código aberto.
 - 💬 Pergunte-me sobre tecnologias Web.
 - Eu também cursei 6 semestres de engenharia da computação na UNIFACS.
-- Eu tenho  muita expreriencia de soft Skills pois, tive uma copiadora onde tive que estabelecer organização e atendimento ao publico pois tinha muita demanda.  
+- Eu tenho  muita expreriencia de soft Skills pois, tive uma copiadora onde tive que estabelecer organização pçanejamento e atendimento ao publico pois tinha muita demanda.  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Languages and Tools</b> <br>
 
