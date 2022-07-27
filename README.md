@@ -39,8 +39,3 @@
 <a href = "https://www.linkedin.com/in/alexresende86/"><img src = "https://image.flaticon.com/icons/svg/174/174857.svg" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
 <a href = "https://ganish.com.np/"><img src = "https://image.flaticon.com/icons/svg/841/841364.svg" height= 15px width = 15px> Website </a>
 
-<div>
-<a href="https://github.com/Alexrm86">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Alexrm86-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?Alexrm86-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
