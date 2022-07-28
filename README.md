@@ -48,6 +48,7 @@
 <div>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 - 📫 How to reach me:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = ""> <img src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" height= 30px width = 30px></a>&nbsp;&nbsp;
