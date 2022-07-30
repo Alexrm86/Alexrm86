@@ -6,12 +6,12 @@
 **Alexrm86/Alexrm86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>About me</b> <br>
 - <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> Eu sou Alex Resende Machado, tenho 35 anos saou de Salvador - Bahia -Brasil 🇳🇵.
-- 🔭 Eu sou um estudante da Trybe,e prendo me tornar me tornar um Full Stack.
+- 🔭 Eu sou um estudante da Trybe,e acabei de me formar como Front End e prendo me tornar me tornar um Full Stack.
 - 🌱 Atualmente estou aprendendo desenvolvimento full-stack Development.
 - 👯 Estou procurando colaborar em projetos de código aberto.
 - 💬 Pergunte-me sobre tecnologias Web.
 - Eu também cursei 6 semestres de engenharia da computação na UNIFACS.
-- Eu tenho  muita expreriencia de soft Skills pois, tive uma copiadora onde tive que estabelecer organização planejamento e atendimento ao publico pois tinha muita demanda.  
+- Eu tenho  muita expreriencia de soft Skills pois, tive uma copiadora onde tive que estabelecer organização planejamento ,empatia e paciência para atendimento ao publico pois existia muita demanda.  
 
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexrm86&layout=compact&langs_count=7&theme=github_dark"/>
