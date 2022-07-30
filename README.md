@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 - 📫 How to reach me:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = ""> <img src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" height= 30px width = 30px></a>&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.facebook.com/alex.resende.165/"> <img src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" height= 30px width = 30px></a>&nbsp;&nbsp;
 <a href = "https://www.instagram.com/alexrmachado86/"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
 <a href = "https://www.linkedin.com/in/alexresende86/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 
