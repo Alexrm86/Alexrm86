@@ -49,6 +49,7 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://camo.githubusercontent.com/4004b2f7fa33c1cd04eef3e56a050c29463f9d613d00506464a4151edfca3d73/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d7973716c" alt="jest" width="40" height="40" data-canonical-src="https://skillicons.dev/icons?i=mysql" style="max-width: 100%;">
 </div>
 - 📫 How to reach me:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.facebook.com/alex.resende.165/"> <img src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" height= 30px width = 30px></a>&nbsp;&nbsp;
