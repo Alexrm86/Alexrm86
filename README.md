@@ -5,13 +5,13 @@
 <!--
 **Alexrm86/Alexrm86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>About me</b> <br>
-- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> Eu sou Alex Resende Machado, tenho 35 anos saou de Salvador - Bahia -Brasil 🇳🇵.
-- 🔭 Eu sou um estudante da Trybe,e acabei de me formar como Front End e prendo me tornar me tornar um Full Stack.
-- 🌱 Atualmente estou aprendendo desenvolvimento full-stack Development.
+- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> Eu sou Alex Resende Machado, tenho 36 anos sou de Salvador - Bahia -Brasil 🇳🇵.
+- 🔭 Eu estudei na Trybe,e acabei de me  tornar me tornar um Full Stack Jr.
+- 🌱 Atualmente estou me atualizando em outras linguadens sempre buscando aprender mais .
 - 👯 Estou procurando colaborar em projetos de código aberto.
 - 💬 Pergunte-me sobre tecnologias Web.
 - Eu também cursei 6 semestres de engenharia da computação na UNIFACS.
-- Eu tenho  muita expreriencia de soft Skills pois, tive uma copiadora onde tive que estabelecer organização planejamento ,empatia e paciência para atendimento ao publico pois existia muita demanda.  
+- Eu tenho  muita expreriencia de soft Skills desenvolvido muito na Trybe onde estudei , antes  tive uma copiadora onde tive que estabelecer organização planejamento ,empatia e paciência para atendimento ao publico pois existia muita demanda.  
 
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexrm86&layout=compact&langs_count=7&theme=github_dark"/>
@@ -49,9 +49,9 @@
   <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java" />
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-E34F26?style=for-the-badge&logo=mysql">
+  <img src="https://img.shields.io/badge/-Postgres-000?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker" />
   <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
   <img src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" />
 
@@ -67,5 +67,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.facebook.com/alex.resende.165/"> <img src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" height= 30px width = 30px></a>&nbsp;&nbsp;
 <a href = "https://www.instagram.com/alexrmachado86/"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
 <a href = "https://www.linkedin.com/in/alexresende86/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+
 
 
