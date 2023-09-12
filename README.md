@@ -6,12 +6,13 @@
 **Alexrm86/Alexrm86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>About me</b> <br>
 - <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> Eu sou Alex Resende Machado, tenho 36 anos sou de Salvador - Bahia -Brasil 🇳🇵.
-- 🔭 Eu estudei na Trybe,e acabei de me  tornar me tornar um Full Stack Jr.
+- 🔭 Eu estudei na Trybe,e acabei de me tornar um Full Stack Jr.
 - 🌱 Atualmente estou me atualizando em outras linguadens sempre buscando aprender mais .
 - 👯 Estou procurando colaborar em projetos de código aberto.
 - 💬 Pergunte-me sobre tecnologias Web.
 - Eu também cursei 6 semestres de engenharia da computação na UNIFACS.
-- Eu tenho  muita expreriencia de soft Skills desenvolvido muito na Trybe onde estudei , antes  tive uma copiadora onde tive que estabelecer organização planejamento ,empatia e paciência para atendimento ao publico pois existia muita demanda.  
+- Eu tenho  muita expreriencia de soft Skills desenvolvido muito na Trybe onde estudei , antes  tive uma copiadora onde tive que estabelecer organização planejamento ,empatia e paciência para atendimento ao publico pois existia muita demanda.<br><br><br><br>
+ - Tecnologias: React Native · Scrum · Sequelize · React Hooks · Teste de integração · TypeScript · Jest · Mocha · Design de experiência do usuário (UX) · npm (Gerenciador de Pacotes do Node) · Bootstrap · Metodologias ágeis no desenvolvimento web · flexbox · JSON Web Token (JWT) · HTML · Redux.js · JSX (JavaScript eXtension) · Kanban · Desenvolvimento de front-end · Node.js · GitHub · HTML5 · Desenvolvimento web · Docker · HTML semântico · Mapeamento objeto-relacional (ORM) · SQL · Sequelize.js · Express.js · Codificação RTL · MySQL · Git · joins · Linux · JavaScript · CSS Flexbox · React.js · Ubuntu · Microsoft Visual Studio · Unix · CSS · Web design · Doom  · Java Jre e Jdk  · Java OO Entendo a Orientação a Objetos · Java Polimorfismo:  Herança e Interfaces ·Java Collecttions: Dominando Listas, Sets e Mapas.<br><br>
 
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexrm86&layout=compact&langs_count=7&theme=github_dark"/>
@@ -67,6 +68,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.facebook.com/alex.resende.165/"> <img src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" height= 30px width = 30px></a>&nbsp;&nbsp;
 <a href = "https://www.instagram.com/alexrmachado86/"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
 <a href = "https://www.linkedin.com/in/alexresende86/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+
 
 
 
