@@ -6,14 +6,13 @@
 **Alexrm86/Alexrm86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>About me</b> <br>
 - <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> Eu sou Alex Resende Machado, tenho 36 anos sou de Salvador - Bahia -Brasil 🇳🇵.
-- 🔭Adoro trabalhar com tecnologia, sou apaixonado por Desenvolvimento Software e marcas que trabalhem para contribuir com uma melhor interação digital , 
-🇳🇵Eu sou Alex Resende Machado, tenho 36 anos sou de Salvador - Bahia -Brasil.
-🔭 Eu estudei na Trybe,e acabei de me tornar um Full Stack Jr.
-🌱 Atualmente estou me atualizando em outras linguadens , e em outras plataformas como Alura e Dio  sempre buscando aprender mais.
-👯 Estou procurando colaborar em projetos de código aberto.
-💬 Pergunte-me sobre tecnologias Web.
-Eu também cursei 6 semestres de Eng. da Computação na UNIFACS.
-Eu tenho muita expreriencia de soft Skills  e hard Skills desenvolvido muito na Trybe onde estudei  mais de 1 ano.<br><br><br><br>
+- 🔭Adoro trabalhar com tecnologia, sou apaixonado por Desenvolvimento Software e marcas que trabalhem para contribuir com uma melhor interação digital.
+- 🔭 Sou um Full Stack  Dev Jr.
+- 🌱 Atualmente estou me atualizando em outras linguadens , e em outras plataformas como Alura e Dio sempre buscando aprender mais.
+- 👯 Estou procurando colaborar em projetos de código aberto.
+- Também cursei 6 semestres de Eng. da Computação na UNIFACS.
+- Tenho muita expreriencia de soft Skills  e hard Skills desenvolvido muito na Trybe onde estudei  mais de 1 ano.<br><br><br><br>
+
  - Tecnologias: React Native · Scrum · Sequelize · React Hooks · Teste de integração · TypeScript · Jest · Mocha · Design de experiência do usuário (UX) · npm (Gerenciador de Pacotes do Node) · Bootstrap · Metodologias ágeis no desenvolvimento web · flexbox · JSON Web Token (JWT) · HTML · Redux.js · JSX (JavaScript eXtension) · Kanban · Desenvolvimento de front-end · Node.js · GitHub · HTML5 · Desenvolvimento web · Docker · HTML semântico · Mapeamento objeto-relacional (ORM) · SQL · Sequelize.js · Express.js · Codificação RTL · MySQL · Git · joins · Linux · JavaScript · CSS Flexbox · React.js · Ubuntu · Microsoft Visual Studio · Unix · CSS · Web design · Doom  · Java Jre e Jdk  · Java OO Entendo a Orientação a Objetos · Java Polimorfismo:  Herança e Interfaces ·Java Collecttions: Dominando Listas, Sets e Mapas...<br><br>
 
 <div>
